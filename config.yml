@@ -1,7 +1,7 @@
-title: HTMLfornoobs
-description: HTML for starters
+title: GitHub for noobs
+description: GitHub
 template:
-  repo: htmlfornoobs-template
+  repo: learn
   name: htmlfornoobs
 before:
   - type: createIssue
